@@ -7,6 +7,7 @@ public class MainTest {
 	public void mTest()
 	{
 		System.out.println("Avnish");
+		System.out.println("vinayak");
 	}
 
 }
